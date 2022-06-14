@@ -27,6 +27,5 @@
   </a>
                      
  
-                          The is Op Bot is made by Peter
-                            His Github https://github.com/peterhanania
+
 </div>
