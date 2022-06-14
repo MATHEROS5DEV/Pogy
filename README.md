@@ -25,5 +25,7 @@
   <a href="https://github.com/peterhanania/Pogy/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-Apache%202-blue" alt="license">
   </a>
-
+                     
+ 
+                          The is Op Bot is made by [Peter](https://github.com/peterhanania)
 </div>
