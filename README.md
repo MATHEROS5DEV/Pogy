@@ -19,14 +19,14 @@
   </a>
   
   <a href="https://github.com/discordjs">
-    <img src="https://img.shields.io/badge/discord.js-v12.5.3-blue.svg?logo=npm" alt="discordjs">
+    <img src="https://img.shields.io/badge/discord.js-v13.6.0-blue.svg?logo=npm" alt="discordjs">
   </a>
 
   <a href="https://github.com/peterhanania/Pogy/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-Apache%202-blue" alt="license">
   </a>
                      
- ##Setup
+              Setup
  Just make type token in env and put the token
  then fill config.js and config.json
 
