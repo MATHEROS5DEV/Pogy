@@ -62,7 +62,7 @@ module.exports = class PogyClient extends Client {
     .catch(e => console.log(e))
 
     this.mongoose.init();  
-	  this.login("OTM5NDg2MTAwMTE0Nzk2NTQ0.GC-UFP.ZBTuG_bqIdLze3pgRAjKG5cU9u-vzOA1xrqZrI")
+	  this.login("this.token")
   }
 
 };
