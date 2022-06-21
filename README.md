@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/license-Apache%202-blue" alt="license">
   </a>
                      
-          Setup
+ Setup
  Just make type token in env and put the token
  then fill config.js and config.json
 
